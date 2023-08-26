@@ -1,6 +1,10 @@
 Friday Saturday Sunday
 Trennt Folsom
 Fun about to begin.
+<<<<<<< HEAD
 Groundhog day 
+=======
+Groundhog day
+>>>>>>> 40bf8579faaf2d2241ff232623e1de6929d3fd7d
 Change from someone else
 
